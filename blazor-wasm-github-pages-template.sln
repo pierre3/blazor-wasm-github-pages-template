@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30021.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHubPagesSpa", "GitHubPagesSpa\GitHubPagesSpa.csproj", "{3256544A-947F-4B1C-B727-86D1336ABFB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASMGitHubPagesVSIX", "BlazorWASMGitHubPagesVSIX\BlazorWASMGitHubPagesVSIX.csproj", "{7A38D95D-FF02-4816-B337-3B02A1B5A5B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3256544A-947F-4B1C-B727-86D1336ABFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3256544A-947F-4B1C-B727-86D1336ABFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3256544A-947F-4B1C-B727-86D1336ABFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3256544A-947F-4B1C-B727-86D1336ABFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A38D95D-FF02-4816-B337-3B02A1B5A5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A38D95D-FF02-4816-B337-3B02A1B5A5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A38D95D-FF02-4816-B337-3B02A1B5A5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A38D95D-FF02-4816-B337-3B02A1B5A5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90FA8A02-8145-484F-84E9-11EC0432B74A}
+	EndGlobalSection
+EndGlobal
