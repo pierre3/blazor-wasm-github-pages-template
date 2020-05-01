@@ -61,6 +61,6 @@ Download the VSIX installer from the Visual Studio Marketplace or use the Manage
 
 ![image_07](./images/readme007.PNG)
 
-10. When you see "Your site is published at {URL}", click on the URL. This should take you to the Blazor Webassembly site you just created.
+10. When you see "Your site is published at {URL}", click on the URL. This should take you to the Blazor Webassembly site you just created. (It will take a little while for the page to become accessible.)
 
 ![image_08](./images/readme008.PNG)
