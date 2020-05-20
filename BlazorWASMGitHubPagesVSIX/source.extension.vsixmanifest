@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" ?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="BlazorWASMGitHubPagesVSIX.b4fa15cb-bd5b-4cd2-99a6-e9cd6a2e30c6" Version="1.0.4" Language="en-US" Publisher="pierre3" />
+        <Identity Id="BlazorWASMGitHubPagesVSIX.b4fa15cb-bd5b-4cd2-99a6-e9cd6a2e30c6" Version="1.1.0" Language="en-US" Publisher="pierre3" />
         <DisplayName>Blazor GitHub Pages SPA</DisplayName>
         <Description xml:space="preserve">Blazor WebAssembly template for hosting on GitHub Pages.</Description>
         <MoreInfo>https://github.com/pierre3/blazor-wasm-github-pages-template</MoreInfo>
         <License>LICENSE.txt</License>
         <Tags>Blazor; Blazor WebAssembly; GitHub Pages</Tags>
-        <Preview>true</Preview>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.6, 17.0)" />
